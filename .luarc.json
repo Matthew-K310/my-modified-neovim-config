@@ -1,8 +1,0 @@
-{
-    "diagnostics.globals": [
-        "vim",
-        "get_python_path",
-        "listDiagnostics",
-        "leave_snippet"
-    ]
-}
